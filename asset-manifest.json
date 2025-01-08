@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/LuisAcev/Journal-app/static/css/main.943107d6.css",
+    "main.js": "/LuisAcev/Journal-app/static/js/main.bb673df0.js",
+    "index.html": "/LuisAcev/Journal-app/index.html",
+    "main.943107d6.css.map": "/LuisAcev/Journal-app/static/css/main.943107d6.css.map",
+    "main.bb673df0.js.map": "/LuisAcev/Journal-app/static/js/main.bb673df0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.943107d6.css",
+    "static/js/main.bb673df0.js"
+  ]
+}
