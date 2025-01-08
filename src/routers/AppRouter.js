@@ -1,6 +1,6 @@
 import React from "react";
 import { HashRouter } from "react-router-dom";
-import { Route, Routes, Navigate, BrowserRouter } from "react-router-dom";
+import { Route, Routes, Navigate } from "react-router-dom";
 import { JournalScreen } from "../components/journal/JournalScreen";
 import AuthRouter from "./AuthRouter";
 import { useEffect } from "react";
