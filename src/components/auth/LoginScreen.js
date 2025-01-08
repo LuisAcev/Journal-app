@@ -19,7 +19,7 @@ import {  useNavigate } from "react-router-dom"
 
         email:'react@gmail.com',
 
-        password:''
+        password:'123456'
     });
 
 
@@ -95,6 +95,7 @@ import {  useNavigate } from "react-router-dom"
                     type="password"
                     placeholder="Password"
                     name="password"
+                    value={ password }
                     className="auth__input"
                     onChange= { handleInputChange }
                 />
